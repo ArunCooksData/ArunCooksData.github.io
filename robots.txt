@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aruncooksdata.github.io/sitemap.xml
